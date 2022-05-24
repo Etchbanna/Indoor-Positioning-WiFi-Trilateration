@@ -1,6 +1,6 @@
 import math
 import numpy
-from .ap_distance import ap_distance
+from ap_distance import ap_distance
 
 LatA = 10
 LongA = -5
